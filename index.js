@@ -17,7 +17,12 @@ const questions = [
   {
     type: 'input',
     name: 'installation',
-    message: 'Input installation instructions for your project.',
+    message: 'Input installation steps for your project.',
+  },
+   {
+    type: 'input',
+    name: 'usage',
+    message: 'Input usage instructions for your project.',
   },
   {
     type: 'list',
