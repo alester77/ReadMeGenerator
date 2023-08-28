@@ -70,10 +70,7 @@ ${renderLicenseBadge(data.license)}
   // ![alt text] (assets/images/screenshot.png)  
 
 
-  ## License
-  ${data.license}
-
-  ${renderLicenseLink(data.license)}        
+  ${renderLicenseSection(data.license)}      
   
   ## Credits  
   ${data.contribution}  
