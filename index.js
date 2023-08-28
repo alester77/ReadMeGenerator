@@ -35,6 +35,12 @@ const questions = [
     name: 'contribution',
     message: 'Input contribution credits for your project.',
   },
+
+  {
+    type: 'input',
+    name: 'test',
+    message: 'Input test instructions for your project.',
+  },
   {
     type: 'input',
     name: 'gitHub',
