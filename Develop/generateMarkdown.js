@@ -75,7 +75,7 @@ ${renderLicenseBadge(data.license)}
   ## Credits  
   ${data.contribution}  
 
-  ## Tests
+  ## Test
   ${data.test}
 
   ### Questions?   
