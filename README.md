@@ -14,6 +14,8 @@ First, you'll have to run "npm init -y" then "npm i inquirer@8.2.4" and once tha
 
 Once prompts are begun using node, answer the prompts to the best of your ability and once completed, you'll see your new created readMe in your files. Click to to make adjustments as needed.
 
+Video Url: https://www.youtube.com/watch?v=9ARqg1ncKYk
+
 ![Screenshot](Develop/images/Screenshot%202023-08-28%20212648.png)
 
 ## Credits
